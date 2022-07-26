@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.campus-facilities-logo {
+  color: gray;
+}
+
+.campus-facilities-logo:hover {
+  color: black;
+}
